@@ -24,5 +24,7 @@ On another machine:
     python3 subscriber.py
 
 ### Now, add other topics for in the publisher and create subscribers for the new topics.
-
+#### Request-Reply (Requisição-Resposta)
+Este é um padrão simples onde um cliente envia uma mensagem e espera por uma resposta do servidor.
+A ideia é ver o cliente enviando mensagens e o servidor respondendo a cada uma delas.
     
